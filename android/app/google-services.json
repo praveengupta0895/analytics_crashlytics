@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "453948335885",
+    "project_id": "analytics-crashlytics-f379e",
+    "storage_bucket": "analytics-crashlytics-f379e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453948335885:android:9e96ff29aebc7ab8a03244",
+        "android_client_info": {
+          "package_name": "com.praveen.analytics_crashlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453948335885-t3l7ei5f584nk0b0ru0euagv7ndckbpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.praveen.analytics_crashlytics",
+            "certificate_hash": "04f342e38584794e8857c622c9e2a9955b83ca2c"
+          }
+        },
+        {
+          "client_id": "453948335885-9a4rov8u79q2fash1r2m5vape6orrfl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgytEEFfaRhIIf_dSoaZ6_MCGvoL_rRJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453948335885-9a4rov8u79q2fash1r2m5vape6orrfl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
